@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sandy Nicholas</h1>
 <h3 align="center">A Passionate Full Stack Website Developer From Indonesia</h3>
 
