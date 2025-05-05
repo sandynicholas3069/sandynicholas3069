@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandy Nicholas</h1>
 <h3 align="center">A Passionate Full Stack Website Developer From Indonesia</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,tailwind,laravel)](https://skillicons.dev)
-
 ### Get In Touch!
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sandyportfolio.vercel.app/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sandynicholas3069)
